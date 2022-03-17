@@ -1,1 +1,6 @@
-
+ gcc -g p6original.c 
+ ./a.out
+enter the string :
+hello
+the reversea of thr string is :
+olleh

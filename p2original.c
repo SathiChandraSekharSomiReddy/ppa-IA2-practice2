@@ -16,9 +16,9 @@ int check_scalene(int a,int b,int c)
 void output(int a,int b,int c,int scalene)
 {
   if(scalene==0)
-  printf("It is a Scalene triangle");
+  printf("It is a Scalene triangle\n");
   else
-  printf("It is not a Scalene triangle");
+  printf("It is not a Scalene triangle\n");
 } 
 int main()
 {

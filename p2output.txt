@@ -1,1 +1,29 @@
+ gcc -g p2original.c 
+ ./a.out
+enter any number:
+1
+enter any number:
+5
+enter any number:
+9
+It is a Scalene triangle
+ 
 
+
+
+
+
+
+
+
+
+ gcc -g p2original.c 
+ ./a.out
+enter any number:
+1
+enter any number:
+5
+enter any number:
+5
+It is not a Scalene triangle
+ 

@@ -1,1 +1,7 @@
-
+ gcc -g p5original.c 
+ ./a.out
+enter any number :
+12
+enter any number :
+16
+the gcd numbers 12 and 16 is 4
