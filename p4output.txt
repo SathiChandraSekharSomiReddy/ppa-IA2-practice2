@@ -1,1 +1,15 @@
-
+ gcc -g p4original.c 
+ ./a.out
+Enter size of an array:
+5
+enter a numbers:
+1
+enter a numbers:
+2
+enter a numbers:
+7
+enter a numbers:
+8
+enter a numbers:
+12
+sum is 20
